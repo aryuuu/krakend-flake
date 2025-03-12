@@ -1,0 +1,36 @@
+{
+  "versions": {
+    "2.9.3": {
+      "builds": [
+        {
+          "arch": "amd64",
+          "platform": "generic-linux",
+          "url": "https://github.com/krakend/krakend-ce/releases/download/v2.9.3/krakend_2.9.3_amd64_generic-linux.tar.gz",
+          "sha256": "sha256-lmrJtgHbAIf5KwypZG7tIIeLmxbkFIPM/c4yaHi11jw="
+        },
+        {
+          "arch": "amd64",
+          "platform": "alpine",
+          "url": "https://github.com/krakend/krakend-ce/releases/download/v2.9.3/krakend_2.9.3_amd64_alpine.tar.gz",
+          "sha256": "sha256-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        },
+        {
+          "arch": "arm64",
+          "platform": "alpine",
+          "url": "https://github.com/krakend/krakend-ce/releases/download/v2.9.3/krakend_2.9.3_arm64_alpine.tar.gz",
+          "sha256": "sha256-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        }
+      ]
+    },
+    "2.7.0": {
+      "builds": [
+        {
+          "arch": "amd64",
+          "platform": "generic-linux",
+          "url": "https://github.com/krakend/krakend-ce/releases/download/v2.7.0/krakend_2.7.0_amd64_generic-linux.tar.gz",
+          "sha256": "sha256-hMsiK9IyL1mMZg83Dp1sdY+oYFQ+eIkcnc2lzdEkFNQ="
+        }
+      ]
+    }
+  }
+}
